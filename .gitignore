@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ProxyForge generated files
+results/
+resultados/
+logs/
+protocolos/
+protocols/
+
+# Local configuration / state
+config.json
+.resume_auth.txt
+
+# Proxy lists / input data
+proxies.txt
+proxies/
+*.proxylist
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
